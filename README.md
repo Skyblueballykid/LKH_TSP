@@ -22,3 +22,5 @@ Within *matlab* a matlab function called *LKH_TSP.m* interfaces a compiled versi
 Feel free to use these simple functions which are released mostly to motivate those working on TSP to use the LKH solver. 
 
 [Kostas Alexis](mailto:konstantinos.alexis@gmail.com)
+
+Includes a simple brute force solution in C++. 
